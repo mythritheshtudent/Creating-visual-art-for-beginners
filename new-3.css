@@ -1,3 +1,4 @@
+</html>
 body {
     background-color:lightgoldenrodyellow;
     background-image: url("flower-3214833__340.webp");}
@@ -6,9 +7,9 @@ body {
     color: black;
   }
   h1 {
-    font-weight: bold;font-family:serif;;background-color: white
+    font-weight: bold;font-family: monospace;background-color: white
   }
   h2{font-family: monospace;background-color: lightyellow;font-size:24px }
-  p{font-family:inherit;font-size: 18px;background-color: lightpink;font-size: 30px;}
-  ul{font-size: 24px;background-color: lightcoral;font-family: inherit}
-  h4{background-color:white;}
+  p{font-family:inherit;font-size: 12px;background-color: lightpink;font-size: 30px;}
+  ul{font-size: 18px;background-color: lightcoral;font-family: inherit}
+  h4{background-color:blue;}
